@@ -1,0 +1,6 @@
+https://home.openweathermap.org/api_keys
+usr: 
+
+API Key created on 06 March 2022
+5e4bdf17e144755921baf475509a2dff
+
